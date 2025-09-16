@@ -761,7 +761,9 @@ In this task, you will perform the following changes to the app:
 
 1. Select the **Environmental Management** app, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
-1. Select **+ New**.
+1. Select the **caret** on the right side of **+ New**.
+
+    ![Add table to model-driven app.](../media/add-dataverse-table-to-model-app.png)
 
 1. Select **Dataverse table**.
 
@@ -771,7 +773,7 @@ In this task, you will perform the following changes to the app:
 
 1. Select **Add**.
 
-1. Select **+ New**.
+1. Select the **caret** on the right side of **+ New**.
 
 1. Select **Dataverse table**.
 
@@ -808,7 +810,7 @@ In this task, you will perform the following changes to the app:
 
 1. Select the **Environmental Project Delivery** app, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
-1. Select **+ New**.
+1. Select the **caret** on the right side of **+ New**.
 
 1. Select **Dataverse table**.
 
