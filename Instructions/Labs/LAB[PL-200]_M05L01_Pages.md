@@ -249,7 +249,7 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. Select **+ Add roles**
 
-1. Check the following permissions:
+1. Check the following roles:
 
     - Administrators
     - Authenticated Users
@@ -273,7 +273,7 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. Select **+ Add roles**
 
-1. Check the following permissions:
+1. Check the following roles:
 
     - Administrators
     - Authenticated Users
