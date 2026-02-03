@@ -180,7 +180,7 @@ In this exercise, you will import data the into the **Dev One** environment usin
 
 1.  Select **Tables** from the left navigation menu.
 
-1.  Select **Import** from the action menu, then select **Import data from Dataflows**, and then select **Excel workbook** as the source.
+1.  Select **Import** from the action menu, then select **Import data with Dataflows**, and then select **Excel workbook** as the source.
 
 1.  Select **Browse OneDrive**. If prompted, sign in with your Microsoft 365 credentials.
 
