@@ -57,8 +57,6 @@ In this exercise, you will access the Power Apps maker portal, the Developer env
 
 1.  Select **Save**.
 
-1.  In the **Publisher** drop-down, select **Fabrikam (fabrikam)**.
-
 1.  Select **Create**.
 
     ![New solution.](../media/new-solution.png)
