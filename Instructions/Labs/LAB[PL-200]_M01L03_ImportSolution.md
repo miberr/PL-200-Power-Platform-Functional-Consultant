@@ -30,6 +30,8 @@ The solutions contain:
 
 In this lab, you will import the developed solutions and data.
 
+This lab will take approximately **20** minutes to complete. 
+
 ## Exercise 1 - Import Fabrikam solutions
 
 In this exercise, you will import the main solution into the **Dev One** environment.
@@ -76,6 +78,18 @@ In this exercise, you will import the main solution into the **Dev One** environ
 
 1.  Select **Publish all customizations**.
 
+### Task 1.2 - Set preferred solution
+1.  Navigate to `https://make.powerapps.com`
+
+1. Make sure you are in the **Dev One** environment.
+
+1. Select **Solutions.**
+
+1. Select **Manage** in the Current preferred solution tile.
+
+1. Select **Fabrikam Environmental (contoso)**.
+
+1. Select **Apply.**
 
 ## Exercise 2 - Import data
 
@@ -166,9 +180,7 @@ In this exercise, you will import data the into the **Dev One** environment usin
 
 1.  Select **Tables** from the left navigation menu.
 
-1.  Select **Import** from the action menu, then select **Import data**.
-
-1.  In the **Choose data source** dialog, select **Excel workbook**.
+1.  Select **Import** from the action menu, then select **Import data from Dataflows**, and then select **Excel workbook** as the source.
 
 1.  Select **Browse OneDrive**. If prompted, sign in with your Microsoft 365 credentials.
 

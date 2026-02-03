@@ -10,6 +10,8 @@ lab:
 
 The tenant includes an environment named **Dev One** that you will do the majority of your lab work in. In this lab, you create another environment for use during the remainder of the labs. You will use the *Developer* environment type for both environments.
 
+This lab will take approximately **10** minutes to complete. 
+
 **Note:** Depending on the browser that you are using, it is suggested that you disable any pop-up blockers that maybe enabled. This will allow pop-up windows to appear as they should.
 
 
@@ -36,9 +38,9 @@ In this exercise, you will review the **Dev One** environment and create a *Prod
 
 1.  Navigate to **Environments** in the Power Platform admin center `https://admin.powerplatform.microsoft.com/manage/environments`
 
+1. Select **Manage** and select **Environments.**
+  
 1.  Select **+ New**.
-
-    ![Environment in the Power Platform admin center.](../media/ppac-environments.png)
 
 1.  In the **Name** text box, enter **[my initials] Production**. (Example: PL Production).
 

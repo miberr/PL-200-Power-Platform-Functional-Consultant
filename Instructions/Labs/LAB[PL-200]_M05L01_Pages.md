@@ -12,6 +12,8 @@ You are a Power Platform functional consultant and have been assigned to the Fab
 
 In this practice lab, you will deploy a Power Pages portal and expose Milestone data to customers.
 
+This lab will take approximately **30** minutes to complete. 
+
 ## Exercise 1 - Sign up for Power Pages
 
 In this exercise, you will provision a Power Pages site using a starter template.
@@ -74,7 +76,7 @@ In this exercise, you will explore a Power Pages site and the Power Pages tools.
 
 1. In the menu, select  **Sign in**.
 
-1. Select **Azure AD**. This will sign you in with your Microsoft 365 credentials.
+1. Select **Microsoft Entra ID**. This will sign you in with your Microsoft 365 credentials.
 
 1. If permissions are requested, select **Accept**.
 
@@ -341,9 +343,9 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. In the **Pages** pane on the left side, select **Milestones**.
 
-1. In the canvas, select the **Milestones list component**.
+1. In the canvas, select the **Milestones list component** and select **Edit list.**
 
-1. Select **Actions**.
+1. Select the **Actions** tab.
 
 1. Toggle **View details** to **On**.
 
@@ -351,13 +353,7 @@ In this exercise, you will add a list of Milestone rows to the page, add a form 
 
 1. Select **Milestone** for **Forms**.
 
-1. Toggle **Create a new record** to **On**.
-
-1. Select **Form** for **Target type**.
-
-1. Select **Milestone** for **Form**.
-
-1. Select **OK**.
+1. Select **Done.**
 
 1. In the top-right of the Power Pages designer, select **Sync**.
 
