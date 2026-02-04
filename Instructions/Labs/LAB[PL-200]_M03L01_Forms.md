@@ -702,7 +702,7 @@ In this task, you will perform the following changes to the form:
 
 1. Select **Form settings**.
 
-1. Select the **Environmental manager** and **Environmental administrator** roles as the specific security roles that should have access to this form.
+1. Select **Specific security roles** and then check **Environmental manager** and **Environmental administrator** roles as the roles that should have access to this form.
 
     ![Form Settings roles.](../media/form-settings-roles.png)
 
