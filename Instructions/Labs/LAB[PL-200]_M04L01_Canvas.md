@@ -18,7 +18,7 @@ This lab will take approximately **30** minutes to complete.
 2. Ensure you are in the **Dev One** environment.
 3. In the Maker Studio, select **Apps.**
 4. Select **Start with data**.
-5. Choose **Select existing tables.**
+5. Choose **Dataverse**.
 6. Search for and select the **Milestone** table.
 7. Click **Create app** to generate the app.
 8. Select **Save.**
